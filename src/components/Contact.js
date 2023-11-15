@@ -37,7 +37,7 @@ export default function Contact() {
                         marginHeight={0}
                         marginWidth={0}
                         style={{ filter: "opacity(0.7)" }}
-                        src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61916.16484610675!2d121.06766144371429!3d14.091322201837656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd6f72ec612957%3A0xb38df4072fe465d6!2sTanauan%2C%20Batangas!5e0!3m2!1sen!2sph!4v1700040432099!5m2!1sen!2sph"
                     />
                     <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
                         <div className="lg:w-1/2 px-6">
